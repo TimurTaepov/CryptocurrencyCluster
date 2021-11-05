@@ -27,7 +27,7 @@ Preprocess the data and add the date, see what happened
 
 ![1](https://user-images.githubusercontent.com/43303016/135918654-eb905539-7c87-43eb-8bc5-6bf0f1c06102.png)
 
-There are about five clusters
+There are about three clusters but for study purposes i will set the number of clusters = 5
 
 ![2](https://user-images.githubusercontent.com/43303016/135919653-6300e9ac-77f7-4e65-ad81-47e6a8e10dd8.png)
 ![Unknown](https://user-images.githubusercontent.com/43303016/135919659-bb875a89-cbc2-4aba-86fb-8ccbf490babe.png)
